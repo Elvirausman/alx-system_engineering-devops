@@ -1,1 +1,1 @@
-Web Stack Monitoring
+WEBSTACK MONITORING
